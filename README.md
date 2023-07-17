@@ -16,6 +16,7 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinkarchive%2FFront-End&count_bg=%238F84ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     <img src="https://img.shields.io/badge/release-1.0.0-8F84ED"> 
     <br /><br />
+    <h3>FrontEnd</h3>
     <img src="https://img.shields.io/badge/next.js-13.3.4-black?logo=next.js">
     <img src="https://img.shields.io/badge/TypeScript-5.0.4-%23007ACC?logo=typescript">
     <img src="https://img.shields.io/badge/React-18.2.0-%2361DAFB?logo=react">
@@ -26,6 +27,19 @@
     <img src="https://img.shields.io/badge/ESLint-8.14.0-%234B32C3?logo=eslint">
     <img src="https://img.shields.io/badge/Prettier-2.6.2-%23F7B93E?logo=prettier">
     <img src="https://img.shields.io/badge/Vercel-%23000000?logo=vercel">
+    <h3>BackEnd</h3>
+    <img src="https://img.shields.io/badge/Java-17-ED8B00?logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Gradle-7.6.1-02303A?logo=gradle&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Boot-2.7.11-6DB33F?logo=spring-boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Data%20JPA-%236DB33F?logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring%20Security-%236DB33F?logo=spring&logoColor=white">
+    <img src="https://img.shields.io/badge/H2-Database-%23A4A4A4?logo=h2&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white">
+    <img src="https://img.shields.io/badge/QueryDSL-5.0.0-%23B7B8C2">
+    <img src="https://img.shields.io/badge/Junit5-%2325A162?logo=junit5&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20EC2-%23232F3E?logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20S3-%2356B4E9?logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/AWS%20RDS-%230D6333?logo=amazon-aws&logoColor=white">
 
 </div>
 <br /><br />
@@ -92,18 +106,21 @@
       <td align="center"><img src="https://github.com/1yoouoo.png" width="160"></td>
       <td align="center"><img src="https://github.com/dev-hamster.png" width="160"></td>
       <td align="center"><img src="https://github.com/esubine.png" width="160"></td>
+      <td align="center"><img src="https://github.com/sujin003147.png" width="160"></td>
     </tr>
     <tr>
       <td align="center">이태균</td>
       <td align="center">이지윤</td>
       <td align="center">박진아</td>
       <td align="center">이수빈</td>
+      <td align="center">박수진</td>
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/taegyun1995" target="_blank">@taegyun1995</a></td>
       <td align="center"><a href="https://github.com/1yoouoo" target="_blank" width="160">@1yoouoo</a></td>
       <td align="center"><a href="https://github.com/dev-hamster" target="_blank">@dev-hamster</a></td>
       <td align="center"><a href="https://github.com/esubine" target="_blank">@esubine</a></td>
+      <td align="center"><a href="https://github.com/sujin003147" target="_blank">@sujin003147</a></td>
     </tr>
   </table>
   
