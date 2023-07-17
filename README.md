@@ -9,9 +9,9 @@
     <p>
         <a href="https://www.link-archive.com/" target="_blank">바로 이용해보기</a>
     </p>
-    <a href="https://github.com/linkarchive/Front-End/wiki" target="_blank">WIKI</a> &nbsp; &nbsp; |&nbsp; &nbsp; 
-    <a href="https://github.com/linkarchive/Front-End/wiki/2023%E2%80%9004%E2%80%9019-%ED%9A%8C%EC%9D%98%EB%A1%9D" target="_blank">회의록</a> &nbsp; &nbsp; |&nbsp; &nbsp;
-    <a href="https://github.com/linkarchive/Front-End/wiki/2023%E2%80%9007%E2%80%9004-%EC%8A%A4%ED%81%AC%EB%9F%BC" target="_blank">스크럼</a>
+    <a href="https://github.com/linkarchive/LinkArchive/wiki" target="_blank">WIKI</a> &nbsp; &nbsp; |&nbsp; &nbsp; 
+    <a href="https://github.com/linkarchive/LinkArchive/wiki/2023%E2%80%9004%E2%80%9019-%ED%9A%8C%EC%9D%98%EB%A1%9D" target="_blank">회의록</a> &nbsp; &nbsp; |&nbsp; &nbsp;
+    <a href="https://github.com/linkarchive/LinkArchive/wiki/2023%E2%80%9007%E2%80%9004-%EC%8A%A4%ED%81%AC%EB%9F%BC" target="_blank">스크럼</a>
     <br /><br />
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flinkarchive%2FFront-End&count_bg=%238F84ED&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
     <img src="https://img.shields.io/badge/release-1.0.0-8F84ED"> 
