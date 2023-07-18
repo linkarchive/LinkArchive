@@ -46,7 +46,7 @@
 
 <h2>⚙️ 인프라 구조</h2>
 <h3> BackEnd </h3>
-<img src="https://github.com/linkarchive/LinkArchive/assets/95176511/521f913d-75b1-4ab7-a1fd-91a30bbc519f" width="1000" />
+<img src="https://github.com/linkarchive/LinkArchive/assets/95176511/18b719ce-0b2e-4b8e-8bc5-09b98159bdcb" width="1000" />
 
 <!-- <img src="https://user-images.githubusercontent.com/33686751/207779000-5deeaae6-4ac2-426b-86cf-223d4bfe7b2e.png" width="800" />
 <!-- ## 🚀 프로젝트 소개 -->
